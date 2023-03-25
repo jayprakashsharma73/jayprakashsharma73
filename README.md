@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayprakashsharma73
 - 👀 I’m interested in iOS Development, Swift Programming
-- 🌱 I’m currently learning Swift, Swift UI, UIkit
+- 🌱 I’m currently learning Swift, Swift UI, UIkit, Objective-C
 - 📫 How to reach me - mail at jayprakashsharma7@outlook.com
 
 <!---
