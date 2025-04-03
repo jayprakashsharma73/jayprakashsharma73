@@ -9,8 +9,9 @@ I’m passionate about crafting scalable, intuitive, and high-performance iOS ap
 - 🔹 Explore the latest Apple frameworks & best practices  
 - 🔹 Solve complex problems with clean, maintainable code  
 
-📫 Connect with me:
-📩 Email: jaysharma7.official@gmail.com 
+📫 Connect with me:  
+
+📩 **Email:** [jaysharma7.official@gmail.com](mailto:jaysharma7.official@gmail.com)  
 
 <!---
 jayprakashsharma73/jayprakashsharma73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
